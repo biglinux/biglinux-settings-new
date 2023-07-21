@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-session-and-themes package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-session-and-themes\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
+msgstr "Tarayıcı kullanıyorsanız, değişiklikleri uygulamak için tarayıcıyı yeniden başlatın."
+
+msgid "Desempenho"
+msgstr "Performans"
+
+msgid "Usabilidade"
+msgstr "Kullanılabilirlik"
+
+msgid "Abrir"
+msgstr "Açık"
+
+msgid "Modo performance"
+msgstr "Performans modu"
+
+msgid "BTRFS sem fsync"
+msgstr "Fsync olmadan BTRFS"
+
+msgid "Aceleração do navegador"
+msgstr "Tarayıcı hızlandırma"
+
+msgid "Configurações do Brave"
+msgstr "Cesur Ayarlar"
+
+msgid "Remover propagandas"
+msgstr "Reklamları kaldırma"
+
+msgid "Suportar criptomoedas"
+msgstr "Kripto para birimlerini destekleyin"
+
+msgid "Escolher programas a serem carregados na memória durante boot"
+msgstr "Önyükleme sırasında belleğe yüklenecek programları seçin"
+
+msgid "Ligar RGB do teclado"
+msgstr "RGB'yi klavyeden bağlama"
+
+msgid "Botões da janela no lado esquerdo"
+msgstr "Sol taraftaki pencere düğmeleri"
+
+msgid "Rolagem do mouse invertida"
+msgstr "Ters çevrilmiş fare kaydırma"
+
+msgid "Rolagem do touchpad invertida"
+msgstr "Ters dokunmatik yüzey kaydırma"
+
+msgid "Indexar arquivos"
+msgstr "Dizin dosyaları"
+
+msgid "Bloquear a edição da área de trabalho"
+msgstr "Masaüstü düzenlemeyi engelleme"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "Sistem başlangıcında NumLock'u etkinleştirme"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "Önyükleme Yöneticisini Gizle (GRUB)"
+
+msgid "Montar partições automaticamente"
+msgstr "Bölümleri otomatik olarak bağlama"
+
+msgid "Modo Desenvolvedor"
+msgstr "Geliştirici Modu"
+
+msgid "Grub"
+msgstr "Arjantin"
+
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "Dikkatli olun, SnapShots'a erişiminizi kaybedersiniz. Grub'u gizlemek istediğinden emin misin?"
+
+msgid "Não"
+msgstr "Hayır"
+
+msgid "Sim"
+msgstr "Evet"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "Başarısızlık durumunda Grub'u nasıl iade edeceğinizi bilecek misiniz?"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "Grafik moduna erişmeden SnapShots'a erişebilecek misiniz?"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "Bu uygulamadan tamamen emin misiniz?"
+
+msgid "Aplicando, aguarde..."
+msgstr "Başvuru, bekle..."
+
+msgid "Concluído!"
+msgstr "Yapılmış!"
+
+msgid "Ok"
+msgstr "TAMAM"
+
+msgid "Desempenho em modo performance!"
+msgstr "Performans modunda performans!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Gelişmiş modda performans!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Normal modda performans!"
+
+msgid "BigLinux Ajustes"
+msgstr "BigLinux Ayarları"

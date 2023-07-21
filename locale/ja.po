@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-session-and-themes package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-session-and-themes\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
+msgstr "ブラウザーを使用している場合は、ブラウザーを再始動して変更を適用します。"
+
+msgid "Desempenho"
+msgstr "パフォーマンス"
+
+msgid "Usabilidade"
+msgstr "ユーザビリティ"
+
+msgid "Abrir"
+msgstr "開ける"
+
+msgid "Modo performance"
+msgstr "パフォーマンスモード"
+
+msgid "BTRFS sem fsync"
+msgstr "fsync を使用しない BTRFS"
+
+msgid "Aceleração do navegador"
+msgstr "ブラウザーアクセラレーション"
+
+msgid "Configurações do Brave"
+msgstr "ブレイブセッティング"
+
+msgid "Remover propagandas"
+msgstr "広告を削除する"
+
+msgid "Suportar criptomoedas"
+msgstr "暗号通貨をサポートする"
+
+msgid "Escolher programas a serem carregados na memória durante boot"
+msgstr "起動時にメモリにロードするプログラムを選択する"
+
+msgid "Ligar RGB do teclado"
+msgstr "キーボードからRGBを接続する"
+
+msgid "Botões da janela no lado esquerdo"
+msgstr "左側にあるウィンドウのボタン"
+
+msgid "Rolagem do mouse invertida"
+msgstr "マウスのスクロールが反転する"
+
+msgid "Rolagem do touchpad invertida"
+msgstr "反転タッチパッドスクロール"
+
+msgid "Indexar arquivos"
+msgstr "インデックス ファイル"
+
+msgid "Bloquear a edição da área de trabalho"
+msgstr "デスクトップ編集をブロックする"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "システム起動時にNumLockを有効にする"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "ブートマネージャ（GRUB）の非表示"
+
+msgid "Montar partições automaticamente"
+msgstr "パーティションを自動的にマウントする"
+
+msgid "Modo Desenvolvedor"
+msgstr "開発者モード"
+
+msgid "Grub"
+msgstr "地虫"
+
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "注意してください、あなたはスナップショットにアクセスできなくなります。グラブを非表示にしてもよろしいですか?"
+
+msgid "Não"
+msgstr "いいえ"
+
+msgid "Sim"
+msgstr "はい"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "失敗した場合にGrubを返す方法を知っていますか?"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "グラフモードにアクセスせずにスナップショットにアクセスできますか?"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "あなたはこのアプリケーションを完全に確信していますか?"
+
+msgid "Aplicando, aguarde..."
+msgstr "適用中、待機中..."
+
+msgid "Concluído!"
+msgstr "完成です！"
+
+msgid "Ok"
+msgstr "わかりました"
+
+msgid "Desempenho em modo performance!"
+msgstr "パフォーマンスモードでのパフォーマンス!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "エンハンスドモードでのパフォーマンス!"
+
+msgid "Desempenho em modo normal!"
+msgstr "ノーマルモードでのパフォーマンス!"
+
+msgid "BigLinux Ajustes"
+msgstr "ビッグリナックス設定"

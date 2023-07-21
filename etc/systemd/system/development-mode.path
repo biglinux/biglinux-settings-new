@@ -1,0 +1,9 @@
+[Unit]
+Description="Monitor the /etc/skel file for changes"
+
+[Path]
+PathModified=/etc/skel/
+Unit=development-mode.service
+
+[Install]
+WantedBy=multi-user.target
