@@ -1,12 +1,12 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the biglinux-settings package.
+# This file is distributed under the same license as the biglinux-settings-new package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: biglinux-settings\n"
+"Project-Id-Version: biglinux-settings-new\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,6 @@ msgstr ""
 
 msgid "BigLinux Ajustes"
 msgstr "BigLinux Ajustes"
-
-msgid ""
-"Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
-msgstr ""
-"Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 
 msgid "Grub"
 msgstr "Grub"
@@ -57,11 +52,16 @@ msgstr "Concluído!"
 msgid "Ok"
 msgstr "Ok"
 
-msgid "Desempenho em modo otimizado!"
-msgstr "Desempenho em modo otimizado!"
+msgid ""
+"Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
+msgstr ""
+"Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 
 msgid "Desempenho em modo normal!"
 msgstr "Desempenho em modo normal!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Desempenho em modo otimizado!"
 
 msgid "Desempenho em modo performance!"
 msgstr "Desempenho em modo performance!"
